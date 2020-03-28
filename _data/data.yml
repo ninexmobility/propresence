@@ -31,9 +31,6 @@ sidebar:
       - idiom: Spanish
         level: Professional
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Climbing
         link:
@@ -121,38 +118,6 @@ projects:
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline: 
-
-      - title: 
-        link: 
-        tagline:
-
-publications:
-    title: 
-    intro: |
-      
-    papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
-
-      - title: 
-        link: 
-        authors: 
-        conference:
 
 skills:
     title: Skills &amp; Proficiency
