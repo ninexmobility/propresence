@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Pro Presence
-url: 'https://ninexmobility.github.io/propresence'
+url: 'https://ninexmobility.github.io/propresence/'
 baseurl: '/propresence' #change it according to your repository name
 description: Professional Presence Cosulting
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
