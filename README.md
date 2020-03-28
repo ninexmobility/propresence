@@ -13,11 +13,12 @@ This is my resume site based on the Start Bootstrap Resume Template
 Will is an I.T. Engineer focused on Enterprise Mobility, Automation, & Endpoint Management.
 To learn more visit: <https://willworland.com>
 
-### Theme Based on...
+### Theme Based on
 
 #### Orbit
 
-> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> Veiw on Github: <https://github.com/xriley/Orbit-Theme>
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
 #### Credits

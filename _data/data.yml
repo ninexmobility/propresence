@@ -65,7 +65,12 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: Mobility Support
+    - degree: 
+      university: 
+      time: 
+      details: |
+experiences:
+      - role: Mobility Support
       time: 2015 - Present
       company: MSP Mobile, Dallas, TX
       details: |
@@ -76,7 +81,6 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
     - role: EMM Support
       time: 2014 - 2015
       company: MSP Testers, Plano, TX
@@ -90,17 +94,6 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
     - role: T1 Help Desk
