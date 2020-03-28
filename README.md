@@ -4,7 +4,7 @@ This is my resume site based on the Start Bootstrap Resume Template
 
 ## Preview
 
-![Resume Preview](https://ninexmobility.github.io/propresece/assets/images/screenshot.png)
+![Resume Preview](https://ninexmobility.github.io/propresence/assets/images/screenshot.png)
 
 ### [Will Worland - Resume](https://willworland.com)
 
